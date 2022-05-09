@@ -1,0 +1,37 @@
+<svg id="Group_1" data-name="Group 1" xmlns="http://www.w3.org/2000/svg" width="81" height="81" viewBox="0 0 81 81">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d22727;
+      }
+
+      .cls-2 {
+        fill: #5cb988;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_18" data-name="Rectangle 18" class="cls-1" width="71" height="71" transform="translate(5 5)"/>
+  <path id="Polygon_1" data-name="Polygon 1" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(0 6)"/>
+  <path id="Polygon_2" data-name="Polygon 2" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(71 6)"/>
+  <path id="Polygon_3" data-name="Polygon 3" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(14 11)"/>
+  <path id="Polygon_4" data-name="Polygon 4" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(58 11)"/>
+  <path id="Polygon_5" data-name="Polygon 5" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(36 11)"/>
+  <path id="Polygon_6" data-name="Polygon 6" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(25 10) rotate(-90)"/>
+  <path id="Polygon_7" data-name="Polygon 7" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(47 10) rotate(-90)"/>
+  <path id="Polygon_8" data-name="Polygon 8" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(0 35)"/>
+  <path id="Polygon_9" data-name="Polygon 9" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(71 35)"/>
+  <path id="Polygon_10" data-name="Polygon 10" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(10 24)"/>
+  <path id="Polygon_11" data-name="Polygon 11" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(58 35)"/>
+  <path id="Polygon_12" data-name="Polygon 12" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(48 21)"/>
+  <path id="Polygon_13" data-name="Polygon 13" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(21 43) rotate(-90)"/>
+  <path id="Polygon_14" data-name="Polygon 14" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(38 46) rotate(-90)"/>
+  <path id="Polygon_15" data-name="Polygon 15" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(10 75) rotate(180)"/>
+  <path id="Polygon_16" data-name="Polygon 16" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(81 75) rotate(180)"/>
+  <path id="Polygon_17" data-name="Polygon 17" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(34 60) rotate(180)"/>
+  <path id="Polygon_18" data-name="Polygon 18" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(68 70) rotate(180)"/>
+  <path id="Polygon_19" data-name="Polygon 19" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(46 70) rotate(180)"/>
+  <path id="Polygon_20" data-name="Polygon 20" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(25 81) rotate(-90)"/>
+  <path id="Polygon_21" data-name="Polygon 21" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(47 81) rotate(-90)"/>
+  <path id="Polygon_22" data-name="Polygon 22" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(19 50) rotate(90)"/>
+  <path id="Polygon_23" data-name="Polygon 23" class="cls-2" d="M5,0l5,3.82L8.09,10H1.91L0,3.82Z" transform="translate(58 48) rotate(90)"/>
+</svg>
